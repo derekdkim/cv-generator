@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/derekdkim/cv-generator/static/css/main.9607d8a9.chunk.css",
-    "main.js": "/derekdkim/cv-generator/static/js/main.fa36f6c3.chunk.js",
-    "main.js.map": "/derekdkim/cv-generator/static/js/main.fa36f6c3.chunk.js.map",
-    "runtime-main.js": "/derekdkim/cv-generator/static/js/runtime-main.ad584108.js",
-    "runtime-main.js.map": "/derekdkim/cv-generator/static/js/runtime-main.ad584108.js.map",
-    "static/js/2.7c08d55a.chunk.js": "/derekdkim/cv-generator/static/js/2.7c08d55a.chunk.js",
-    "static/js/2.7c08d55a.chunk.js.map": "/derekdkim/cv-generator/static/js/2.7c08d55a.chunk.js.map",
-    "index.html": "/derekdkim/cv-generator/index.html",
-    "precache-manifest.b6df28b17a96a551d88e8fc04a89dcc8.js": "/derekdkim/cv-generator/precache-manifest.b6df28b17a96a551d88e8fc04a89dcc8.js",
-    "service-worker.js": "/derekdkim/cv-generator/service-worker.js",
-    "static/css/main.9607d8a9.chunk.css.map": "/derekdkim/cv-generator/static/css/main.9607d8a9.chunk.css.map",
-    "static/js/2.7c08d55a.chunk.js.LICENSE.txt": "/derekdkim/cv-generator/static/js/2.7c08d55a.chunk.js.LICENSE.txt"
+    "main.css": "/cv-generator/static/css/main.9607d8a9.chunk.css",
+    "main.js": "/cv-generator/static/js/main.fa36f6c3.chunk.js",
+    "main.js.map": "/cv-generator/static/js/main.fa36f6c3.chunk.js.map",
+    "runtime-main.js": "/cv-generator/static/js/runtime-main.5fc965f0.js",
+    "runtime-main.js.map": "/cv-generator/static/js/runtime-main.5fc965f0.js.map",
+    "static/js/2.7c08d55a.chunk.js": "/cv-generator/static/js/2.7c08d55a.chunk.js",
+    "static/js/2.7c08d55a.chunk.js.map": "/cv-generator/static/js/2.7c08d55a.chunk.js.map",
+    "index.html": "/cv-generator/index.html",
+    "precache-manifest.cdd760b5ec3e6109184a3e7388822221.js": "/cv-generator/precache-manifest.cdd760b5ec3e6109184a3e7388822221.js",
+    "service-worker.js": "/cv-generator/service-worker.js",
+    "static/css/main.9607d8a9.chunk.css.map": "/cv-generator/static/css/main.9607d8a9.chunk.css.map",
+    "static/js/2.7c08d55a.chunk.js.LICENSE.txt": "/cv-generator/static/js/2.7c08d55a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad584108.js",
+    "static/js/runtime-main.5fc965f0.js",
     "static/js/2.7c08d55a.chunk.js",
     "static/css/main.9607d8a9.chunk.css",
     "static/js/main.fa36f6c3.chunk.js"
