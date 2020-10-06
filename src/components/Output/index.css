@@ -1,0 +1,32 @@
+#output-container {
+  font-size: 1.2em;
+}
+
+#contact-output-container {
+  margin-left: 2em;
+  color: black;
+}
+
+#contact-output-container h1 {
+  margin-left: 0;
+}
+
+#contact-output-container p {
+  margin: 0.25em;
+}
+
+.section h3 {
+  font-size: 2em;
+}
+
+#education-output-container p, #work-output-container p {
+  color: grey;
+  font-size: 1em;
+}
+
+.subheading {
+  color: black;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 0;
+}

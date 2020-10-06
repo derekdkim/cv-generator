@@ -1,0 +1,107 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  background-color: white;
+}
+
+#main-container p, h1 {
+  margin-left: 1em;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-left: 2rem;
+  color: #0466c8;
+}
+
+.section label {
+  color: #0466c8;
+  font-weight: bold;
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+.section input {
+  width: 30%;
+  height: 1.5em;
+}
+
+.section p {
+  color: black;
+}
+
+.btn-container {
+  margin: 1em 0 1em 0;
+}
+
+.btn-container button {
+  margin: 0 0.5em 0 0.5em;
+  width: 10%;
+  height: 2.5em;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+
+.save-btn {
+  background-color: #0466c8;
+  color: white;
+  border: none;
+}
+
+.save-btn:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid #0466c8;
+}
+
+.clear-btn {
+  background-color: white;
+  border: 2px solid #d90429;
+  color: black;
+}
+
+.clear-btn:hover {
+  background-color: #9d0208;
+  color: white;
+  border: none;
+}
+
+.edit-btn {
+  border: 2px solid #0466c8;
+  color: black;
+  background-color: white;
+
+  width: 10%;
+  height: 2.5em;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+
+.edit-btn:hover {
+  background-color: #0466c8;
+  color: white;
+}
+
+#submit-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+#submit-btn {
+  width: 25%;
+  height: 4rem;
+  border-radius: 5px;
+  font-size: 1.2em;
+  background-color: #43aa8b;
+  color: white;
+  border: none;
+}
+
+#submit-btn:hover {
+  border: 2px solid #43aa8b;
+  background-color: white;
+  color: black;
+}
